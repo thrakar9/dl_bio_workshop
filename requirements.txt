@@ -1,0 +1,9 @@
+jupyter
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+Biopython
+webllogo
