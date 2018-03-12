@@ -6,9 +6,24 @@
 
 ## Installation 
 
-- python
-- virtualenv 
-- requirements
+- Install python
+  - Windows: Download from [https://www.python.org/downloads/](https://www.python.org/downloads/) 
+  - MacOS/Unix: You should have a python version installed already. Execute `~$ python` to see what version.
+  
+- Install virtualenv
+  - Windows: Follow the instructions here to install: [http://pymote.readthedocs.io/en/latest/install/windows_virtualenv.html](http://pymote.readthedocs.io/en/latest/install/windows_virtualenv.html)
+  - MacOS/Unix: `[sudo] pip install virtualenv`
+  
+- Create a virtual environment
+  - Windows: `>virtualenv dl_bio_workshop`
+  - MacOS/Unix: `~$virtualenv dl_bio_workshop`
+  
+- Activate virtual environment
+  - Windows: `>dl_bio_workshop\Scripts\activate`
+  - MacOS/Unix: `~$source dl_bio_workshop/bin/activate`
+
+- Install requirements
+  - All platforms, with virtual environment activated: `pip install -r requirements.txt
 
 ## Tools
 
