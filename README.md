@@ -23,7 +23,7 @@
   - MacOS/Unix: `~$source dl_bio_workshop/bin/activate`
 
 - Install requirements
-  - All platforms, with virtual environment activated: `pip install -r requirements.txt
+  - All platforms, with virtual environment activated: `pip install -r requirements.txt`
 
 ## Tools
 
