@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [Google Drive](https://drive.google.com/drive/u/0/folders/1p3gah3fTjDojgIsq-mtkmk0A4FHxBxaQ)
+- [Slides - Google Drive](https://drive.google.com/drive/u/0/folders/1p3gah3fTjDojgIsq-mtkmk0A4FHxBxaQ)
 
 ## Installation 
 
