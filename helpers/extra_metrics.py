@@ -1,3 +1,5 @@
+import keras.backend as K
+
 def explained_variance_score(y_true, y_pred):
     return 1 - K.var(y_true-y_pred, axis=0)/K.var(y_true, axis=0)
 
