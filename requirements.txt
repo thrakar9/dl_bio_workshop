@@ -1,5 +1,6 @@
 jupyter
 pandas
+numpy
 matplotlib
 seaborn
 scikit-learn
@@ -8,3 +9,5 @@ keras
 Biopython
 weblogo
 h5py
+requests
+shutil
