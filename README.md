@@ -6,12 +6,12 @@
 
 ## Installation 
 
-- Install python
+- Install **Python 3.6.5**
   - Windows: Download from [https://www.python.org/downloads/](https://www.python.org/downloads/) 
   - MacOS/Unix: You should have a python version installed already. Execute `~$ python` to see what version.
   
 - Install virtualenv
-  - Windows: Follow the instructions here to install: [http://pymote.readthedocs.io/en/latest/install/windows_virtualenv.html](http://pymote.readthedocs.io/en/latest/install/windows_virtualenv.html)
+  - Windows: `pip install virtualenv`
   - MacOS/Unix: `[sudo] pip install virtualenv`
   
 - Create a virtual environment
